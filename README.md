@@ -1,4 +1,4 @@
-# Asyhar's Data Science Portfolio
+# Hi, I'm Asyhar
 
 Welcome to my GitHub repository! My name is Asyhar and I am interested in data science and other stuff related to Python. This repository is created to store my portfolio, where I showcase my projects and skills in the field of data science.
 
@@ -27,4 +27,4 @@ Here are some of the skills that I have acquired and will continue to develop:
 
 ## Contact
 
-Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at [insert email address here].
+Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at linked.in/asyhar22
