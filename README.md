@@ -27,4 +27,4 @@ Here are some of the skills that I have acquired and will continue to develop:
 
 ## Contact
 
-Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at [LinkedIn](linked.in/asyhar22)
+Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at [LinkedIn](linked.in/asyhar22).
