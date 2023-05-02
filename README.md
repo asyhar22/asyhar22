@@ -10,9 +10,7 @@ I am a passionate data enthusiast who enjoys working with data and extracting in
 
 Here are some of the projects that I have worked on and included in my portfolio:
 
-- **Project 1:** An analysis of customer churn rate in a telecommunication company using machine learning algorithms.
-- **Project 2:** A sentiment analysis of Twitter data to determine the overall public opinion on a particular topic.
-- **Project 3:** A time-series analysis of stock prices to identify trends and patterns.
+- **Project 1:** App to scrap twitter : <a href="https://asyhar.streamlit.app" target="_blank">Asyhar's Apps on Streamlit</a>.
 
 ## Skills
 
