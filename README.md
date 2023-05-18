@@ -14,7 +14,7 @@ Here are some of the projects that I have worked on and included in my portfolio
   <a href= 'https://asyhar22-twitter.streamlit.app'> APP </a> | <a href= 'https://github.com/asyhar22/twitter'> Repository </a>
   
 - **Project 2:** App to predict breast cancer:
-  <a href= 'https://asyhar22-breast-cancer.streamlit.app'> APP </a> | <a href= 'https://github.com/asyhar22/breast-cancer'> Repository </a>
+  <a href= 'https://asyhar22-breast-cancer.streamlit.app'> APP </a> | <a href= 'https://github.com/asyhar22/breast_cancer'> Repository </a>
     
 - **Project 3:** Notebooks on web scrapping:
   <a href= 'https://github.com/asyhar22/webscrap'> Repository </a> 
