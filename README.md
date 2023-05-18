@@ -4,7 +4,7 @@ Welcome to my GitHub repository! My name is Asyhar and I am interested in data s
 
 ## About Me
 
-I am a passionate data enthusiast who enjoys working with data and extracting insights from it. I have a solid foundation in Python programming and am continuously learning new skills and techniques to improve my knowledge in the field of data science. 
+I am a passionate data enthusiast who enjoys working with data and extracting insights from it. I have a solid foundation in Python programming and am continuously learning new skills and techniques to improve my knowledge in this field. 
 
 ## Projects
 
@@ -32,4 +32,4 @@ Here are some of the skills that I have acquired and will continue to develop:
 
 ## Contact
 
-Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at <a href="https://linkedin.com/in/muhasyhar" target="_blank">LinkedIn</a>.
+Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at <a href="https://linkedin.com/in/muhasyhar">LinkedIn</a>.
