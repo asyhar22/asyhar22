@@ -1,10 +1,11 @@
 # Hi, I'm Asyhar
 
-Welcome to my GitHub repository! My name is Asyhar and I am interested in data science and other stuff related to Python. This repository is created to store my portfolio, where I showcase my projects and skills in the field of data science.
+Welcome to my GitHub repository!
+This repository is created to store my portfolio, where I showcase my projects and skills in the field of data.
 
 ## About Me
 
-I am a passionate data enthusiast who enjoys working with data and extracting insights from it. I have a solid foundation in Python programming and am continuously learning new skills and techniques to improve my knowledge in this field. 
+I am a passionate data enthusiast who enjoys working with data and extracting insights from it. My background is finance, but I also have a solid foundation in Ms. Excel, PowerBI, PowerQuery, DAX, SQL, Python.
 
 ## Projects
 
@@ -19,17 +20,6 @@ Here are some of the projects that I have worked on and included in my portfolio
 - **Project 3:** Notebooks on web scrapping:
   <a href= 'https://github.com/asyhar22/webscrap'> Repository </a> 
 
-## Skills
-
-Here are some of the skills that I have acquired and will continue to develop:
-
-- Data wrangling and cleaning
-- Exploratory data analysis
-- Machine learning algorithms
-- Data visualization
-- Statistical analysis
-- Time-series analysis
-
 ## Contact
 
-Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to reach out to me at <a href="https://linkedin.com/in/muhasyhar">LinkedIn</a>.
+Thanks for your visit! If you have any questions or would like to collaborate, feel free to reach me out at <a href="https://linkedin.com/in/muhasyhar">LinkedIn</a>.
